@@ -1,0 +1,3 @@
+[submodule "ssi-arena"]
+	path = ssi-arena
+	url = https://github.com/dionisiusnp/ssi-arena.git
